@@ -1,4 +1,4 @@
-2025年大阪・関西万博会場　3D都市モデル（Project PLATEAU）で配布されているGeoTIFF画像をxyzタイル変換したものです。
+2025年大阪・関西万博会場　3D都市モデル（Project PLATEAU）で配布されている航空写真（GeoTIFF形式）をxyzタイル形式に変換したものです。
 
 利用規約は配布元ページに準じます。
 https://www.geospatial.jp/ckan/dataset/plateau-27999-osaka-shi-2025
